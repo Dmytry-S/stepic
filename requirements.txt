@@ -6,7 +6,7 @@ pluggy==0.13.1
 packaging==20.4
 wcwidth==0.1.9
 selenium==3.141.0
-urllib3==1.25.9
+urllib3==1.26.5
 pyparsing==2.4.7
 six==1.15.0
 setuptools==46.1.3
